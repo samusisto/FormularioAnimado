@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.formulario_uno {
+    width: 500px;
+    max-width: 100%;
+    margin: auto;
+}
